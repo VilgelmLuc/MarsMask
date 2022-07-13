@@ -86,6 +86,13 @@ line-height: 22px;
     margin: 0%;
       } 
   }
+  .container__hero{
+    align-items: flex-start;
+    @include tablets {
+        align-items: center;
+
+      }
+  }
   
   ul {
     padding: 0;
