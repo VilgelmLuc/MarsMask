@@ -1,4 +1,3 @@
-@charset "UTF-8";
 @import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css");
 @-webkit-keyframes show {
   0% {
@@ -48,7 +47,7 @@ html {
 }
 
 body {
-  background: url(./IMG/space_star_wallpaper_026\ \(1\)\ созвездами.png) no-repeat top center;
+  background: url(./img/wallper.png) no-repeat top center;
   background-color: #000000;
   height: 100%;
   font-family: "helvetica";
